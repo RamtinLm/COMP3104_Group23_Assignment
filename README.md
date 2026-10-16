@@ -27,7 +27,13 @@ This project uses **GitHub Actions** for continuous integration. The workflow is
 <!-- Ghazaleh writes this section -->
 
 ## Pull Request Template
-<!-- Ramtin writes this section -->
+Every new pull request is pre-filled from `.github/PULL_REQUEST_TEMPLATE.md`. It has 3 parts:
+
+- **Description:** a short summary of what changed
+- **Type of Change:** bug fix, new feature, or documentation update
+- **Checklist:** self-review, comments, docs, warnings and tests
+
+Each member fills it in before merging their branch into `main`.
 
 ## Merge Conflicts
 <!-- whoever fixes a conflict adds one line: who, which file, what clashed, how it was fixed -->
