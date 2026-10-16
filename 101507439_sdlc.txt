@@ -17,3 +17,15 @@ Automated tests can run whenever new code is pushed, helping teams find errors e
 Continuous Delivery (CD) helps prepare tested software for release. 
 Continuous Deployment goes one step further by automatically releasing changes that pass the required tests. 
 These practices make software delivery faster and more reliable.
+
+Benefits of DevOps
+
+DevOps has many benefits during the software development lifecycle. 
+It improves communication between developers and operations teams, reduces manual work, and helps teams find problems earlier through automated testing.
+Another important benefit is faster software delivery. With CI/CD pipelines, developers can test and release changes more frequently. 
+This reduces the risk of errors and helps teams respond to user feedback more quickly.
+
+Conclusion
+DevOps plays an important role in modern software development. 
+By combining teamwork, automation, and continuous improvement, it makes the SDLC more efficient and reliable. 
+Learning DevOps practices will help me understand how real software development teams build and maintain applications.
