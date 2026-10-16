@@ -1,0 +1,8 @@
+Software Development Life Cycle (SDLC)
+
+The Software Development Life Cycle (SDLC) is a process that developers follow to create and maintain software applications. 
+It helps teams organize their work and develop software in a structured way.
+The main phases of SDLC include planning, requirements analysis, design, development, testing, deployment, and maintenance.
+During planning, the team identifies the project goals. 
+In the requirements phase, developers understand what users need. The design phase focuses on how the application will work. 
+Developers then write the code, test the application, and deploy it for users. After deployment, the software needs regular updates and maintenance.
