@@ -1,3 +1,7 @@
 George Brown Polytechnic is a public college of applied arts and technology in downtown Toronto. It opened in 1967 and now has three campuses across the city. The school is named after George Brown, a journalist and politician who founded The Globe newspaper in 1844 and played an important role in shaping Canada.
 
 In October 2025, George Brown College officially changed its name to George Brown Polytechnic. The new name reflects its focus on career-ready programs, hands-on learning and applied research, and the school consistently ranks among the top research colleges in Canada.
+
+I am currently in the third year of the Computer Programming and Analysis program (T177), a three-year Ontario College Advanced Diploma. The program covers areas such as object-oriented programming, web development, and system analysis and design, and it balances theory with practical, project-based work.
+
+Outside of class, I am part of the executive team of the CS Club, which has helped me connect with other students who share my interest in technology. I expect to graduate in April 2027, and I feel the skills I have built here have prepared me well for a career in software development.
