@@ -6,3 +6,14 @@ The main phases of SDLC include planning, requirements analysis, design, develop
 During planning, the team identifies the project goals. 
 In the requirements phase, developers understand what users need. The design phase focuses on how the application will work. 
 Developers then write the code, test the application, and deploy it for users. After deployment, the software needs regular updates and maintenance.
+
+DevOps and CI/CD in the SDLC
+
+DevOps connects software development and IT operations. 
+It helps teams work together during different stages of the software development lifecycle. 
+Instead of waiting until the end of development to test and release software, DevOps encourages continuous collaboration and improvement.
+Continuous Integration (CI) allows developers to regularly combine their code changes into a shared repository. 
+Automated tests can run whenever new code is pushed, helping teams find errors earlier.
+Continuous Delivery (CD) helps prepare tested software for release. 
+Continuous Deployment goes one step further by automatically releasing changes that pass the required tests. 
+These practices make software delivery faster and more reliable.
