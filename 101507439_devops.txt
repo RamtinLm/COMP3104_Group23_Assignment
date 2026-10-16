@@ -5,3 +5,11 @@ This course introduces students to DevOps practices and explains how development
 
 DevOps focuses on improving collaboration, automation, and software delivery. 
 It helps developers create, test, and release applications more efficiently.
+
+DevOps Tools and Technologies
+
+In COMP3104, we learn how to use different tools such as Git, GitHub, and Travis CI. 
+Git is used to track changes in our code, while GitHub allows developers to store projects online and work together.
+We also learn about continuous integration (CI) and continuous delivery (CD).
+These practices help developers test code automatically and make the software development process faster and more reliable.
+Using these tools helps us understand how developers manage their projects and collaborate with other team members.
