@@ -1,0 +1,7 @@
+COMP3104 - DevOps Course
+
+COMP3104 is a DevOps course at George Brown Polytechnic. 
+This course introduces students to DevOps practices and explains how development and operations teams work together during software development.
+
+DevOps focuses on improving collaboration, automation, and software delivery. 
+It helps developers create, test, and release applications more efficiently.
