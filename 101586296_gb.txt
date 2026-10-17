@@ -1,11 +1,20 @@
 Introduction to George Brown Polytechnic:
 
-George Brown Polytechnic is a public post-secondary school located in the heart of downtown Toronto. It recently changed its name from George Brown College to George Brown Polytechnic to better reflect the wide range of programs it offers, including bachelor's degrees and graduate certificates alongside diplomas. The school is known for practical, hands-on training and strong partnerships with industry, which help students move directly from the classroom into the workforce.
+George Brown Polytechnic is a public post-secondary school located in the heart of downtown Toronto. It recently changed its name from 
+George Brown College to George Brown Polytechnic to better reflect the wide range of programs it offers, including bachelor's degrees 
+and graduate certificates alongside diplomas. The school is known for practical, hands-on training and strong partnerships with industry, 
+which help students move directly from the classroom into the workforce.
 
 Campuses and program areas:
 
-George Brown is spread across three main campuses in downtown Toronto. St. James Campus, close to the historic St. Lawrence neighbourhood, is known for business, hospitality and culinary programs. Casa Loma Campus, in the north part of downtown, focuses on technology, construction and design. Waterfront Campus, right by Lake Ontario, is the centre for health sciences. Each campus has its own feel, but they are all close enough to reach by TTC.
+George Brown is spread across three main campuses in downtown Toronto. St. James Campus, close to the historic St. Lawrence neighbourhood, 
+is known for business, hospitality and culinary programs. Casa Loma Campus, in the north part of downtown, focuses on technology, construction 
+and design. Waterfront Campus, right by Lake Ontario, is the centre for health sciences. Each campus has its own feel, but they are all close enough 
+to reach by TTC.
 
 My program and experience at George Brown:
 
-I am in the Computer Programming and Analysis program (T177), a three-year advanced diploma in the School of Computer Technology. I started in 2024 and I am now in my final year. The program has taken me from programming basics to Java, C#, web development with ASP.NET Core and Spring Boot, databases like PostgreSQL and MongoDB, and now DevOps. What I value most is the team project work, because building real applications with other people is where the course concepts started to make sense to me.
+I am in the Computer Programming and Analysis program (T177), a three-year advanced diploma in the School of Computer Technology. I started in 2024 and 
+I am now in my final year. The program has taken me from programming basics to Java, C#, web development with ASP.NET Core and Spring Boot, databases like 
+PostgreSQL and MongoDB, and now DevOps. What I value most is the team project work, because building real applications with other people is where the course 
+concepts started to make sense to me.
