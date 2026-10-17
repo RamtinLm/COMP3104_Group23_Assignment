@@ -4,6 +4,7 @@ Group assignment for COMP3104 DevOps at George Brown Polytechnic, Fall 2026.
 
 ## Group Members
 - **Leader:** Ramtin Loghmani (101595929) - [GitHub](https://github.com/RamtinLm)
+- **Member:** Ghazaleh Azimikorf (101564963) - [GitHub](https://github.com/Ghazalehaz)
 - **Member:** Mina Fahim (101507439) - [GitHub](https://github.com/mii1na)
 <!-- each member adds their own line below, same format -->
 
@@ -76,7 +77,7 @@ This project uses **GitHub Actions** for continuous integration. The workflow is
 - **Results:** every run shows up in the **Actions** tab. On pull requests, the result appears as a check (green = passed) before merging.
 
 ## Branching Strategy
-<!-- Ghazaleh writes this section -->
+In our group project, each member has their own branch. We name our branches using our student ID and name. Our branches are 101595929-Ramtin, 101586296-Kamand, 101507439-Mina, and 101564963-Ghazaleh. We make changes and commit them on our own branches, then push them to GitHub. When our work is done, we open a pull request instead of pushing directly to main. We check the CI results and use a merge commit to add our work to main. We also pull updates from main to avoid conflicts. I think this makes it easier for everyone to work on their own part and check the changes before merging.
 
 ## Pull Request Template
 Every new pull request is pre-filled from `.github/PULL_REQUEST_TEMPLATE.md`. It has 3 parts:
@@ -88,4 +89,4 @@ Every new pull request is pre-filled from `.github/PULL_REQUEST_TEMPLATE.md`. It
 Each member fills it in before merging their branch into `main`.
 
 ## Merge Conflicts
-<!-- whoever fixes a conflict adds one line: who, which file, what clashed, how it was fixed -->
+- Ghazaleh and Mina had a conflict in the Group Members section of README.md. I fixed it by keeping both members' information.
