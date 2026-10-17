@@ -22,3 +22,8 @@ I also want to learn how automated testing and continuous integration work in re
 These skills are important because developers often work in teams and need to manage changes to their code.
 By the end of COMP3104, I hope to have better teamwork, version control, and problem-solving
  skills that I can use in my future career as a software developer.
+
+ DevOps in Our Group Assignment
+In our COMP3104 group assignment, we use Git and GitHub to work together on the same repository. 
+Each member works on their own branch, makes commits, and creates a pull request to merge changes into the main branch.
+We also use GitHub Actions for continuous integration. This helps us check our work automatically and understand how CI is used in real software development projects.
