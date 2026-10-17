@@ -1,0 +1,4 @@
+Overview of the COMP3104 DevOps course:
+
+COMP3104 DevOps focuses on what happens to code after a developer writes it. Imagine a feature that works perfectly on one laptop but crashes on the live server, and the developers and the operations team blame each other. DevOps exists to prevent that. The course teaches how teams can share responsibility for the whole journey of a feature, from the first line of code to running it in production, and how automation makes that journey faster and safer.
+
