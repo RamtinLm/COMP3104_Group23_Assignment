@@ -1,0 +1,29 @@
+COMP3104 - DevOps Course
+
+COMP3104 is a DevOps course at George Brown Polytechnic. 
+This course introduces students to DevOps practices and explains how development and operations teams work together during software development.
+
+DevOps focuses on improving collaboration, automation, and software delivery. 
+It helps developers create, test, and release applications more efficiently.
+
+DevOps Tools and Technologies
+
+In COMP3104, we learn how to use different tools such as Git, GitHub, and Travis CI. 
+Git is used to track changes in our code, while GitHub allows developers to store projects online and work together.
+We also learn about continuous integration (CI) and continuous delivery (CD).
+These practices help developers test code automatically and make the software development process faster and more reliable.
+Using these tools helps us understand how developers manage their projects and collaborate with other team members.
+
+What I Expect to Learn
+
+In this course, I expect to improve my understanding of DevOps and learn how to use tools that make software development easier. 
+I want to become more confident with Git, GitHub, and working with branches and pull requests.
+I also want to learn how automated testing and continuous integration work in real software projects. 
+These skills are important because developers often work in teams and need to manage changes to their code.
+By the end of COMP3104, I hope to have better teamwork, version control, and problem-solving
+ skills that I can use in my future career as a software developer.
+
+ DevOps in Our Group Assignment
+In our COMP3104 group assignment, we use Git and GitHub to work together on the same repository. 
+Each member works on their own branch, makes commits, and creates a pull request to merge changes into the main branch.
+We also use GitHub Actions for continuous integration. This helps us check our work automatically and understand how CI is used in real software development projects.
