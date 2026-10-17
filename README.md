@@ -6,6 +6,7 @@ Group assignment for COMP3104 DevOps at George Brown Polytechnic, Fall 2026.
 - **Leader:** Ramtin Loghmani (101595929) - [GitHub](https://github.com/RamtinLm)
 - **Member:** Ghazaleh Azimikorf (101564963) - [GitHub](https://github.com/Ghazalehaz)
 - **Member:** Mina Fahim (101507439) - [GitHub](https://github.com/mii1na)
+- **Member:** Kamand Rostami (101586296) - [GitHub](https://github.com/Kamand1377)
 <!-- each member adds their own line below, same format -->
 
 ## Project Description
