@@ -6,10 +6,19 @@ Group assignment for COMP3104 DevOps at George Brown Polytechnic, Fall 2026.
 - **Leader:** Ramtin Loghmani (101595929) - [GitHub](https://github.com/RamtinLm)
 - **Member:** Ghazaleh Azimikorf (101564963) - [GitHub](https://github.com/Ghazalehaz)
 - **Member:** Mina Fahim (101507439) - [GitHub](https://github.com/mii1na)
+- **Member:** Kamand Rostami (101586296) - [GitHub](https://github.com/Kamand1377)
 <!-- each member adds their own line below, same format -->
 
 ## Project Description
-<!-- Kamand writes this section -->
+This repository contains our group assignment for COMP3104 DevOps at George Brown Polytechnic, Fall 2026. The goal was to practice the everyday Git and GitHub workflow that real development teams use, in a safe environment where mistakes are part of learning.
+
+Through this project we practiced:
+- **Branching:** each member worked on their own `STUDENTID-Name` branch
+- **Pull requests:** every branch was merged into `main` through a reviewed PR
+- **Merge conflicts:** resolving conflicts locally when several people edited the same file
+- **Continuous Integration:** a GitHub Actions workflow that runs automatically on every push
+
+The repository includes each member's three text files (about George Brown, the DevOps course, and DevOps in the SDLC), the CI workflow in `.github/workflows/`, and a pull request template in `.github/PULL_REQUEST_TEMPLATE.md`.
 
 ## Setup Instructions
 

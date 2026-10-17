@@ -1,0 +1,20 @@
+Overview of the SDLC phases:
+
+Every software project follows a life cycle, usually described as planning, analysis, design, implementation, testing, deployment 
+and maintenance. Traditionally, teams moved through these phases one at a time, with development and operations working separately. 
+The problem was that testing and deployment came near the end, so issues found there often meant going back several steps, causing delays, 
+higher costs and frustrated users.
+
+Where DevOps and CI/CD fit in the SDLC:
+
+DevOps turns these phases into a continuous loop that repeats in small, frequent cycles. Continuous Integration (CI) means developers merge 
+small changes often, and every push triggers an automated build and tests, so a bug is caught minutes after it is written instead of weeks later. 
+Continuous Delivery and Deployment (CD) take code that passes those checks and release it automatically or with one click. Monitoring in production 
+then feeds information back into planning, which closes the loop.
+
+Benefits of DevOps and conclusion to sdlc file:
+
+Adopting DevOps leads to shorter release cycles, higher software quality and faster recovery from failures, since small changes are easier 
+to test and roll back than big ones. It also builds a culture of collaboration, where the whole team owns the product instead of passing problems 
+along. Working through this assignment, using branches, pull requests and an automated GitHub Actions workflow, showed me how these ideas work in 
+practice and why companies value developers who understand them.

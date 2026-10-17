@@ -1,0 +1,20 @@
+Overview of the COMP3104 DevOps course:
+
+COMP3104 DevOps focuses on what happens to code after a developer writes it. Imagine a feature that works perfectly on one laptop 
+but crashes on the live server, and the developers and the operations team blame each other. DevOps exists to prevent that. 
+The course teaches how teams can share responsibility for the whole journey of a feature, from the first line of code to running it in production, 
+and how automation makes that journey faster and safer.
+
+Main topics and tools covered in DevOps:
+
+The course covers version control with Git and GitHub, branching strategies, pull requests and code review, and continuous integration 
+and delivery (CI/CD) with GitHub Actions. It also introduces containers with Docker, and how automation and monitoring keep an application 
+healthy after it is deployed. This group assignment is a practical example: each member works on their own branch, opens a pull request, 
+resolves merge conflicts, and a GitHub Actions workflow runs automatically on every push.
+
+What I expect to learn from DevOps:
+
+I have already used Docker and integration testing on a team project called UrbanPulse, where I worked on a Spring Boot notification service. 
+That project showed me how much time a team loses when builds and environments are set up by hand. From this course I want to be able to write 
+CI/CD pipelines myself, understand Docker beyond copying a working config, and use Git confidently enough to handle merge conflicts without stress. 
+These are skills I expect to use every day in my first developer job.
